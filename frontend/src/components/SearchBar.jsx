@@ -1,4 +1,4 @@
-import { assets } from '../assets/assets/frontend_assets/assets';
+import { assets } from '../assets/frontend_assets/assets';
 import { ShopContext } from '../context/ShopContext';
 import { useContext } from 'react';
 import { useLocation } from 'react-router-dom';

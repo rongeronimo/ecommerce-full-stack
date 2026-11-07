@@ -1,5 +1,5 @@
 import { ShopContext } from "./ShopContext";
-import { products } from "../assets/assets/frontend_assets/assets";
+import { products } from "../assets/frontend_assets/assets";
 import { useState } from "react";
 import { toast } from "react-toastify";
 import { useNavigate } from "react-router-dom";

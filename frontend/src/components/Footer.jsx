@@ -1,4 +1,4 @@
-import { assets } from "../assets/assets/frontend_assets/assets"
+import { assets } from "../assets/frontend_assets/assets"
 
 const Footer = () => {
     return (

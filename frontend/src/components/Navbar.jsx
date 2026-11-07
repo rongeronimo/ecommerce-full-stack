@@ -1,5 +1,5 @@
 import { useContext, useState } from 'react'
-import { assets } from '../assets/assets/frontend_assets/assets'
+import { assets } from '../assets/frontend_assets/assets'
 import { Link, NavLink } from 'react-router-dom'
 import { ShopContext } from '../context/ShopContext';
 

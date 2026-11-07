@@ -1,4 +1,4 @@
-import { assets } from "../assets/assets/frontend_assets/assets"
+import { assets } from "../assets/frontend_assets/assets"
 import CartTotal from "../components/CartTotal"
 import Title from "../components/Title"
 import { useState, useContext } from "react"

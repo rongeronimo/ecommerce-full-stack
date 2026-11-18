@@ -8,7 +8,7 @@ const BestSeller = () => {
     const { products } = useContext(ShopContext);
 
     const bestSeller = useMemo(
-        () => products.filter((item) => item.bestseller).slice(0, 5),
+        () => products.filter((item) => item.bestSeller).slice(0, 5),
         [products]
     );
 

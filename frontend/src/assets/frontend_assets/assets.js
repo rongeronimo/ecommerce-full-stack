@@ -154,7 +154,7 @@ export const products = [
         subCategory: "Topwear",
         sizes: ["M", "L", "XL"],
         date: 1716622345448,
-        bestseller: true
+        bestseller: false
     },
     {
         _id: "aaaaf",
@@ -166,7 +166,7 @@ export const products = [
         subCategory: "Topwear",
         sizes: ["S", "L", "XL"],
         date: 1716623423448,
-        bestseller: true
+        bestseller: false
     },
     {
         _id: "aaaag",
@@ -266,7 +266,7 @@ export const products = [
     },
     {
         _id: "aaaao",
-        name: "Men Casual Linen Band Collar Shirt.",
+        name: "Men Casual Linen Band Collar Shirt",
         description: "A relaxed long-sleeve shirt with a collarless band neckline, a short button placket and a chest pocket, with rolled sleeves for an easy, laid-back look.",
         price: 140,
         image: [p_img15],
@@ -562,7 +562,7 @@ export const products = [
         subCategory: "Headwear",
         sizes: ["S", "M", "L", "XL"],
         date: 1716654145448,
-        bestseller: false
+        bestseller: true
     },
     {
         _id: "aaabn",
